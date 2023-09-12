@@ -1,0 +1,2 @@
+Record=DiagramHierarchy|SourceDocument=Schematic.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\Shutdown_Aggregator\Shutdown_Aggregator.PrjPcb
+Record=SubProject|SourceDocument=Schematic.MbsDoc|ProjectPath=..\Shutdown_Aggregator\Shutdown_Aggregator.PrjPcb
