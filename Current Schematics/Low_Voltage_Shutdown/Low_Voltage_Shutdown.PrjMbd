@@ -119,6 +119,8 @@ VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
 ProjectName=Shutdown_Aggregator.PrjPcb
+VaultURL=
+VaultName=
 
 [OutputGroup1]
 Name=Netlist Outputs
