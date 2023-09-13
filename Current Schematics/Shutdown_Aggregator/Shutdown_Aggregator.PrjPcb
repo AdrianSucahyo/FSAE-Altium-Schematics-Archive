@@ -35,7 +35,10 @@ IsProjectConflictPreventionWarningsEnabled=1
 IsVirtualBomDocumentRemoved=0
 OutputPath=Project Outputs
 LogFolderPath=..\Panel Templates\Project Logs
-ManagedProjectGUID=
+ManagedProjectGUID=2AA94FD4-CC45-4D8A-B572-410DA7FD54D1
+VaultGUID=766A761B-BAFC-4767-A52F-A808948CCB95
+ReleaseVaultName=Nick H
+ItemGUID=2AA94FD4-CC45-4D8A-B572-410DA7FD54D1
 Template=dxp://VaultExplorer:Navigate_URL?VaultGUID=3F9B8665-732A-4C1E-A259-4DDD34DD90CE&ItemGUID=ADDA7A0F-FBB0-45F7-AD31-565F2C626069&RevisionGUID=EF95CDD6-1234-43DF-AF51-775BF0BAE892&"MainFilename=PCB_Project1.PrjPCB"
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
